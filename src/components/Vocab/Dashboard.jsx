@@ -1,5 +1,5 @@
 import React from "react";
-import { Arrow, Notivation, ProfilePic, StatusIcon } from "../../common/icon";
+import { Arrow,   StatusIcon } from "../../common/icon";
 
 const Dashboard = () => {
   const today = new Date();
